@@ -23,7 +23,51 @@ ul {
 
 a {
     text-decoration: none;
-    font-size: 18px;
-    color: #e5e7eb;
     padding: 10px;
 }
+
+a, .title-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.info1 {
+    background-color: #1f2937;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.title-text {
+    margin: 10px 0;
+}
+.img-title {
+    width: 500px;
+    height: 300px;
+}
+
+.title-box {
+    padding: 15px;
+}
+
+button {
+    color: #f9faf8;
+    padding: 5px 20px;
+}
+
+button, .sign-up-box {
+    background-color: #3882f6;
+}
+
