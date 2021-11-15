@@ -26,7 +26,7 @@ a {
     padding: 10px;
 }
 
-a, .title-text {
+a, footer, .title-text {
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -71,3 +71,27 @@ button, .sign-up-box {
     background-color: #3882f6;
 }
 
+.info2 {
+    display: flex;
+}
+
+.info3 {
+    padding: 100px;
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info4 {
+    margin: 75px;
+    display: flex;
+}
+
+footer {
+    background-color: #1f2937;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
