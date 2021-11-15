@@ -85,6 +85,7 @@ button, .sign-up-box {
 
 .quote-box {
     display: flex;
+    flex-direction: column;
 }
 
 .quote {
@@ -97,6 +98,8 @@ button, .sign-up-box {
 .author {
     font-weight: bold;
     font-size: 36px;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .info4 {
