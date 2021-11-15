@@ -110,6 +110,10 @@ button, .sign-up-box {
     justify-content: center;
     align-items: center;
 }
+.sign-up-box {
+    padding: 25px 100px;
+    width: 700px;
+}
 
 footer {
     background-color: #1f2937;
