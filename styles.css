@@ -74,6 +74,15 @@ button, .sign-up-box {
 }
 
 .info2 {
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+}
+
+.imagebox {
     display: flex;
 }
 
