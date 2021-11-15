@@ -83,6 +83,22 @@ button, .sign-up-box {
     align-items: center;
 }
 
+.quote-box {
+    display: flex;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.author {
+    font-weight: bold;
+    font-size: 36px;
+}
+
 .info4 {
     margin: 75px;
     display: flex;
