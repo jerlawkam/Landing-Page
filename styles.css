@@ -66,11 +66,17 @@ img {
 
 button {
     color: #f9faf8;
-    padding: 5px 20px;
+    font-weight: bold;
+    padding: 5px 25px;
+    border-radius: 10px;
 }
 
 button, .sign-up-box {
     background-color: #3882f6;
+}
+
+.btn2 {
+    border: 3px solid white;
 }
 
 .info2 {
@@ -102,6 +108,7 @@ button, .sign-up-box {
 
 .imgbdr {
     border: 4px solid rgb(58, 58, 202);
+    border-radius: 10px;
 }
 
 .info3 {
@@ -140,6 +147,7 @@ button, .sign-up-box {
 .sign-up-box {
     padding: 25px 100px;
     width: 700px;
+    border-radius: 10px;
     display: flex;
     justify-content: space-between;
 }
@@ -150,4 +158,5 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 5px;
 }
