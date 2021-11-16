@@ -139,7 +139,7 @@ button, .sign-up-box {
 }
 
 .info4 {
-    margin: 75px;
+    padding: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
